@@ -1,7 +1,9 @@
 # repo-parts-test
+<!-- slot:repo.parts.test -->
 
 A test repo for selling parts of a README.
 
+<!-- /slot -->
 ## Sponsor
 
 This space is for a sponsor.
